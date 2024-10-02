@@ -1,11 +1,9 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-// Replace with your network credentials
 const char* ssid = "your_SSID";
 const char* password = "your_PASSWORD";
 
-// Twilio API credentials
 const char* account_sid = "your_twilio_account_sid";
 const char* auth_token = "your_twilio_auth_token";
 const char* whatsapp_number = "whatsapp:+your_twilio_whatsapp_number"; // Twilio sandbox WhatsApp number
