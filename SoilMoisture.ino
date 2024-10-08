@@ -106,6 +106,5 @@ void setup() {
 }
 
 void loop() {
-  // In a real project, you'd read the sensor periodically, but here the logic is inside setup for demonstration
   delay(60000);  // Run once every minute (adjust as necessary)
 }
