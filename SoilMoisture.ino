@@ -1,4 +1,4 @@
-#include <ESP8266WiFi.h>
+W#include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
 // WiFiManager class to encapsulate WiFi-related operations
